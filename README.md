@@ -45,7 +45,7 @@ Full-stack e-commerce platform with production-level architecture.
 - CI/CD using GitHub Actions  
 - Deployment on AWS (EC2, S3, CloudFront)  
 
-🔗 Live: [https://manoj..cloud](http://manojbhandarkar.cloud/)  
+🔗 Live: [https://manojbhandarkar.cloud](http://manojbhandarkar.cloud/)  
 🔗 GitHub: [https://github.com/Manoj-Bhandarkar](https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce.git)  
 
 ---
