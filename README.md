@@ -29,7 +29,9 @@
 
 ### 🛒 E-commerce Application
 
-Full-stack e-commerce platform with production-level architecture.
+🔗 Live Demo: https://store.manojbhandarkar.cloud 
+📘 Backend (Swagger Docs): https://api.manojbhandarkar.cloud/ 
+🔗 GitHub: [https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce.git](https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce.git)
 
 **Key Features:**
 - JWT Authentication (Access & Refresh Token)  
@@ -37,20 +39,23 @@ Full-stack e-commerce platform with production-level architecture.
 - Payment Integration (Razorpay)  
 - Email Verification & Password Reset  
 
-**Advanced Implementation:**
-- Background tasks using Celery + Redis  
-- API testing using pytest  
-- Logging for debugging  
-- Docker containerization  
-- CI/CD using GitHub Actions  
-- Deployment on AWS (EC2, S3, CloudFront)  
+### 📝 Django Blog Platform (Production-Ready)
 
-🔗 Live: [https://manojbhandarkar.cloud](http://manojbhandarkar.cloud/)  
-🔗 GitHub: [https://github.com/Manoj-Bhandarkar](https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce.git)  
+🔗 Live Demo: https://blog.manojbhandarkar.cloud  
+📘 Swagger Docs: https://blog.manojbhandarkar.cloud/api/docs/  
+🔗 GitHub: [https://github.com/Manoj-Bhandarkar/django-blog.git](https://github.com/Manoj-Bhandarkar/django-blog.git)
+
+**Key Features:**
+- REST API with JWT Authentication  
+- Dockerized deployment with Nginx & HTTPS  
+- PostgreSQL + Redis integration  
 
 ---
 
 ## 📫 Connect With Me
 
+- Live: [https://manojbhandarkar.cloud](http://manojbhandarkar.cloud/)  
+- GitHub: [https://github.com/Manoj-Bhandarkar](https://github.com/Manoj-Bhandarkar/)  
 - LinkedIn: https://linkedin.com/in/manoj-bhandarkar-dev  
-- Email: developer.manojbhandarkar@gmail.com  
+- Email: developer.manojbhandarkar@gmail.com
+- Contact: 8788796066
