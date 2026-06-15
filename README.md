@@ -1,84 +1,121 @@
-# Hi, I'm Manoj Bhandarkar 👋
+# 👋 Hi, I'm Manoj Bhandarkar
 
 🚀 **Python Backend Developer | FastAPI | Django | AWS | Docker | CI/CD**
 
-<p align="left">
-  <a href="https://linkedin.com/in/manoj-bhandarkar-dev"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="https://manojbhandarkar.cloud"><img src="https://shields.io" alt="Portfolio"></a>
-  <a href="mailto:developer.manojbhandarkar@gmail.com"><img src="https://shields.io" alt="Email"></a>
-</p>
+I enjoy building scalable, secure, and production-ready backend systems with modern Python technologies.
+
+I have experience working with Django-based applications and independently building end-to-end production projects using FastAPI, Next.js, Docker, AWS, and CI/CD pipelines.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧠 Backend Developer focused on building highly scalable, secure, and production-ready architectures.
-- ⚡ Deeply passionate about automation, dynamic database isolation testing, and structured API development.
-- 🛠️ Successfully engineered a full-stack, enterprise-grade E-Commerce platform with an automated CI/CD lifecycle.
+* 🐍 Python Backend Developer passionate about backend architecture and API development.
+* ⚡ Experienced in building scalable REST APIs using FastAPI and Django.
+* 🏗️ Built and deployed a production-ready E-Commerce platform from scratch.
+* 🐳 Hands-on experience with Docker, Nginx, AWS EC2, and GitHub Actions.
+* 🧪 Familiar with automated testing, CI/CD workflows, and production deployments.
+* 📚 Continuously learning and building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack & Badges
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://shields.io)
+### Backend
 
-### Databases & Caching
-![PostgreSQL](https://shields.io)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+* Python
+* FastAPI
+* Django
+* Django REST Framework (DRF)
+* SQLAlchemy
+* Pydantic
+* JWT Authentication
+* Celery
+* Redis
 
-### DevOps, Testing & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://shields.io)
-![Pytest](https://shields.io)
-![Nginx](https://shields.io)
+### Frontend
+
+* React
+* Next.js
+* JavaScript
+* Tailwind CSS
+* GSAP
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### DevOps & Cloud
+
+* Docker
+* Docker Compose
+* AWS EC2
+* Nginx
+* GitHub Actions
+* Linux
+* SSL/HTTPS
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Swagger/OpenAPI
+* Pytest
 
 ---
 
-## 🚀 Featured Production Projects
+## 🚀 Featured Projects
 
-### 🛒 1. Production E-Commerce Architecture (FastAPI + Next.js)
-*A complete distributed multi-container application built for production scale.*
+### 🛒 Production E-Commerce Platform
 
-- 🔗 **Live Storefront:** [store.manojbhandarkar.cloud](https://store.manojbhandarkar.cloud)
-- 📘 **Backend Swagger Docs:** [api.manojbhandarkar.cloud](https://api.manojbhandarkar.cloud/)
-- 💻 **Source Code:** [fastapi-production-ecommerce](https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce.git)
+Production-ready full-stack E-Commerce application built using **FastAPI + Next.js**.
 
-**Architectural Highlights:**
-- **Automated CI/CD Pipeline:** Fully configured with **GitHub Actions** to spin up dynamic, isolated database services (**PostgreSQL + Redis**) on every push, ensuring test matrix validation before zero-downtime deployment to AWS EC2.
-- **Robust Testing Suite:** Written comprehensive unit and endpoint integrations via **Pytest** and `pytest-cov`, optimizing safe dynamic setup/teardown transactions.
-- **Advanced Core Features:** Secure multi-tiered JWT architecture (Access + Refresh Token cookies), full cart/order validation, Razorpay gateway webhook verification, and Celery worker background tasks.
+🔗 Live Store: https://store.manojbhandarkar.cloud
 
-### 📝 2. Django Blog Platform (Production-Ready)
-*A scalable content microservice packed with optimization layers.*
+📘 API Docs: https://api.manojbhandarkar.cloud/docs
 
-- 🔗 **Live Demo:** [blog.manojbhandarkar.cloud](https://blog.manojbhandarkar.cloud)
-- 📘 **Swagger REST Docs:** [blog.manojbhandarkar.cloud/api/docs](https://blog.manojbhandarkar.cloud/api/docs/)
-- 💻 **Source Code:** [django-blog](https://github.com/Manoj-Bhandarkar/django-blog.git)
+💻 GitHub: https://github.com/Manoj-Bhandarkar/fastapi-production-ecommerce
 
-**Architectural Highlights:**
-- **Containerized Network Layer:** Containerized with multi-stage Docker builds, safely proxying high-availability incoming queries via an optimized Nginx layer with strict HTTPS/SSL configurations.
-- **Database Architecture:** Optimized storage and execution speeds utilizing PostgreSQL schema bounds backed by an memory-cached Redis layer.
+#### Highlights
+
+* JWT Authentication with Refresh Tokens
+* Product, Cart, Order and Shipping modules
+* Razorpay payment integration
+* Redis caching and Celery background tasks
+* Dockerized architecture
+* AWS EC2 deployment with Nginx and SSL
+* Automated CI/CD using GitHub Actions
+* API testing using Pytest
 
 ---
 
-## 📈 GitHub Metrics
+### 📝 Django Blog Platform
 
-<p align="left">
-  <img src="https://vercel.app" alt="Manoj's GitHub Stats" height="180">
-  <img src="https://vercel.app" alt="Manoj's Top Languages" height="180">
-</p>
+Production-ready Blog application built using **Django + DRF**.
+
+🔗 Live Demo: https://blog.manojbhandarkar.cloud
+
+💻 GitHub: https://github.com/Manoj-Bhandarkar/django-blog
+
+#### Highlights
+
+* REST APIs using Django REST Framework
+* JWT Authentication
+* PostgreSQL database
+* Redis caching
+* Dockerized deployment
+* AWS EC2 + Nginx + SSL
+* Swagger API documentation
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio & Live Status:** [manojbhandarkar.cloud](http://manojbhandarkar.cloud/)  
-- 💼 **LinkedIn Profile:** [linkedin.com/in/manoj-bhandarkar-dev](https://linkedin.com/in/manoj-bhandarkar-dev)  
-- ✉️ **Professional Email:** developer.manojbhandarkar@gmail.com
-- 📞 **Direct Contact:** +91 8788796066
+🌐 Portfolio: https://manojbhandarkar.cloud
+
+💼 LinkedIn: https://linkedin.com/in/manoj-bhandarkar-dev
+
+📧 Email: [developer.manojbhandarkar@gmail.com](mailto:developer.manojbhandarkar@gmail.com)
